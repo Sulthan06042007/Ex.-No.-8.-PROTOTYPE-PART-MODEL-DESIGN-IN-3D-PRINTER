@@ -46,9 +46,10 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![WhatsApp Image 2024-01-07 at 11 23 40_be5849d0](https://github.com/Sulthan06042007/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/144980103/3f5f1d76-f2bf-4bb5-9ac1-93118cfdce76)
 
-### Name:
-### Register Number:
+### Name: Mohamed Sulthan A
+### Register Number:23004839
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
